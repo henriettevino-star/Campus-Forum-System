@@ -191,6 +191,7 @@ namespace _0506_1
                     {
                         targetPage = "Community.aspx";
                         alertMsg = "求助信息发布成功！";
+
                     }
 
                     Response.Write($"<script>alert('{alertMsg}');window.location.href='{targetPage}';</script>");

@@ -6,7 +6,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>发布帖子 - 校园二手市场</title>
     <style>
+
         /* 整体背景*/
+
         body { 
             background-color: #F4F9FD; 
             font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif; 

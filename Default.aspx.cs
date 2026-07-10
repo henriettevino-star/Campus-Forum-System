@@ -177,6 +177,7 @@ namespace _0506_1
                     if (rows > 0)
                     {
                         // 6. 购买成功，弹出提示，并重新刷新列表（商品会自动从首页列表中移除）
+
                         ScriptManager.RegisterStartupScript(this, this.GetType(), "BuySuccess",
                             "alert('快捷购买成功！已为您自动生成电子交易订单。'); window.location.href='Default.aspx';", true);
                     }

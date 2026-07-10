@@ -284,8 +284,10 @@ namespace _0506_1
             BindEngagementStats();
         }
 
+
         protected void gvUsers_RowCommand(object sender, GridViewCommandEventArgs e)
         {
+
             string uid = e.CommandArgument.ToString();
 
             if (e.CommandName == "BanUser")

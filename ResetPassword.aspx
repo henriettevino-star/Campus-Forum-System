@@ -5,6 +5,7 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>找回并重置密码</title>
+
     <style>
         body { font-family: 'Microsoft YaHei'; background-color: #f4f7f6; padding: 50px 0; color: #333; }
         .reset-container { max-width: 450px; margin: 0 auto; background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }

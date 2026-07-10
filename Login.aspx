@@ -16,12 +16,14 @@
             height: 100vh; 
         }
         .login-card { 
+
             background: white; 
             padding: 40px; 
             border-radius: 20px; 
             box-shadow: 0 10px 30px rgba(255, 152, 0, 0.1); 
             width: 350px; 
             border: 1px solid #FFECB3; 
+
         }
         h2 { text-align: center; color: #FF9800; margin-bottom: 30px; }
         .input-group { margin-bottom: 20px; }

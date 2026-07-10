@@ -159,6 +159,7 @@ namespace _0506_1
                 DataTable dt;
                 if (paras != null)
                 {
+
                     string safeKeyword = keyword.Replace("'", "''");
                     string safeSql = sql.Replace("@Keyword", $"'%{safeKeyword}%'");
                     dt = DBHelper.GetDataTable(safeSql);

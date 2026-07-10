@@ -14,6 +14,7 @@
         .btn-action { flex: 1; padding: 12px; border: none; border-radius: 6px; font-size: 16px; cursor: pointer; font-weight: bold; }
         .btn-chat { background-color: #28a745; color: white; }
         .btn-buy { background-color: #007bff; color: white; }
+
                
         .chat-area { 
             position: fixed; 

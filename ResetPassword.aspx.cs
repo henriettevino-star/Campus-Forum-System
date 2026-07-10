@@ -33,6 +33,7 @@ namespace _0506_1
 
             if (dt != null && dt.Rows.Count > 0)
             {
+
                 // 验证成功：利用 Session 悄悄记住当前正在修改哪个学生的密码
                 Session["ResetTargetUID"] = safeUid;
 

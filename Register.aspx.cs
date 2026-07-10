@@ -3,6 +3,7 @@ using System.Data;
 using System.Web.UI;
 using _0506_1.App_Code;
 
+
 namespace _0506_1
 {
     public partial class Register : System.Web.UI.Page

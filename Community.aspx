@@ -6,11 +6,14 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>社区广场 - 校园生活</title>
     <style>
+
         /* 页面背景 */
+
         body { 
             background-color: #FDFBFE; 
             font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif; 
             margin: 0; 
+
             padding-top: 10px;
         }
 

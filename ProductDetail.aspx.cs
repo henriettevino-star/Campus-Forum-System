@@ -76,6 +76,7 @@ public partial class ProductDetail : System.Web.UI.Page
                 bool isAntiThunderPost = (postType == "2");
                 bool isLostAndFound = (postType == "3");
                 bool isReallyRequestPost = (postType == "1");
+                
 
                 bool isMyOwn = false;
                 if (!string.IsNullOrEmpty(currentUserId) && !string.IsNullOrEmpty(productOwnerId) && currentUserId.Equals(productOwnerId, StringComparison.OrdinalIgnoreCase))

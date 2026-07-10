@@ -5,6 +5,7 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>校园二手市场</title>
+
     <style>
         /* 页面背景 */
         body { background-color: #FFF9F4; font-family: 'Microsoft YaHei'; margin: 0; padding-top: 10px; }

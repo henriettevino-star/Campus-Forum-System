@@ -6,6 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>个人中心 - 校园二手市场</title>
     <style>
+
         /* 整体背景 */
         body { 
             background-color: #F8F9FA; 

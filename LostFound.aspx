@@ -5,6 +5,7 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>校园失物招领 - 寻物</title>
+
     <style>
         body { background-color: #FFFDF2; font-family: 'Microsoft YaHei'; margin: 0; padding-top: 10px; }
         .nav-top { background-color: #ffffff; padding: 15px 0; text-align: center; max-width: 1100px; margin: 20px auto; border-radius: 15px; border: 2px solid #28a745; box-shadow: 0 8px 25px rgba(40, 167, 69, 0.2); }

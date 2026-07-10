@@ -55,6 +55,7 @@ namespace _0506_1
             DataTable dt = DBHelper.GetDataTable(sql);
             rptProducts.DataSource = dt;
             rptProducts.DataBind();
+
         }
 
         protected void btnSearch_Click(object sender, EventArgs e)
